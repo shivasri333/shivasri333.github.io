@@ -1,5 +1,5 @@
 {
-  "homepage": "https://shivasri333.github.io/shivasri333.github.io",
+  "homepage": "https://shivasrikumbam.github.io/shivasrikumbam.github.io",
   "name": "developer-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -10,15 +10,15 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "axios": "^0.21.1",
-    "react": "^16.14.0",
-    "react-dom": "^16.14.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-fast-marquee": "^1.2.1",
     "react-helmet": "^6.1.0",
     "react-icons": "^4.2.0",
     "react-reveal": "^1.2.2",
     "react-router-dom": "^5.2.0",
     "react-router-hash-link": "^2.4.3",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "^4.0.3",
     "react-slick": "^0.28.1",
     "slick-carousel": "^1.8.1",
     "validator": "^13.6.0",
@@ -51,7 +51,6 @@
     ]
   },
   "devDependencies": {
-    "@babel/plugin-proposal-async-generator-functions": "^7.20.7",
     "gh-pages": "^6.1.1"
   }
 }
