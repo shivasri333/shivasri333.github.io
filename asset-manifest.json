@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shivasri333.github.io/static/css/main.21d47de3.css",
-    "main.js": "/shivasri333.github.io/static/js/main.9e624b58.js",
+    "main.js": "/shivasri333.github.io/static/js/main.270dcc22.js",
     "static/js/453.1cc257ae.chunk.js": "/shivasri333.github.io/static/js/453.1cc257ae.chunk.js",
     "static/media/placeholder.png": "/shivasri333.github.io/static/media/placeholder.3fcbbdcd05f3e458d129.png",
     "static/media/expOrange.svg": "/shivasri333.github.io/static/media/expOrange.9383b2df918bf4e0ce67e3f289602562.svg",
@@ -134,11 +134,11 @@
     "static/media/vuetifyjs.svg": "/shivasri333.github.io/static/media/vuetifyjs.8a22a3ec81ad62e97094feab6e7ee0fb.svg",
     "static/media/bulma.svg": "/shivasri333.github.io/static/media/bulma.5910d4416e077262d0264109649ab214.svg",
     "main.21d47de3.css.map": "/shivasri333.github.io/static/css/main.21d47de3.css.map",
-    "main.9e624b58.js.map": "/shivasri333.github.io/static/js/main.9e624b58.js.map",
+    "main.270dcc22.js.map": "/shivasri333.github.io/static/js/main.270dcc22.js.map",
     "453.1cc257ae.chunk.js.map": "/shivasri333.github.io/static/js/453.1cc257ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21d47de3.css",
-    "static/js/main.9e624b58.js"
+    "static/js/main.270dcc22.js"
   ]
 }
