@@ -119,7 +119,7 @@ function Landing() {
                             {headerData.resumePdf && (
                                 <a
                                     href={headerData.resumePdf}
-                                    download='resume'
+                                    download='Sri_FullStack_Java_Developer'
                                     target='_blank'
                                     rel='noreferrer'
                                 >

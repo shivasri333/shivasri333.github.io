@@ -14,8 +14,8 @@ export const projectsData = [
         projectName: 'Event Management',
         projectDesc: 'This project aims to build an event management system that consolidates all current and upcoming events of a city',
         tags: ['Java', 'Spring Boot', 'React'],
-        code: 'https://github.com/ravikiranvadde/EventManagement',
-        demo: 'https://github.com/ravikiranvadde/EventManagement',
+        code: 'https://github.com/shivasri333/EventManagement',
+        demo: 'https://github.com/shivasri333/EventManagement',
         image: one
     },
     {
@@ -23,8 +23,8 @@ export const projectsData = [
         projectName: 'FleetXpress',
         projectDesc: 'This project is a fleet management system that allows users to obtain relevant information about fleet rental and operations.',
         tags: ['Java', 'Spring','Thymeleaf'],
-        code: 'https://github.com/ravikiranvadde/FleetXpress',
-        demo: 'https://github.com/ravikiranvadde/FleetXpress',
+        code: 'https://github.com/shivasri333/FleetXpress',
+        demo: 'https://github.com/shivasri333/FleetXpress',
         image: two
     },
     
