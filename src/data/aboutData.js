@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Shivasri Kumbam. I'm a Full Stack Developer based in Dallas, TX.",
-    description2: "With over 5 years of experience, I specialize in Java, Spring Boot, and microservices architecture, seamlessly integrating front-end frameworks like Angular with RESTful APIs and backend services. My recent Master's from Texas Tech University sharpened my skills in big data processing with Apache Spark, containerization with Docker, and CI/CD practices on cloud platforms like AWS and Azure. In my current role, I contribute to building scalable, resilient applications, optimizing data processing, and mentoring junior developers to enhance overall team performance.",
+    description1: "My name's Sri Kumbam. I'm a Full Stack Developer.",
+    description2: "I’m a detail-oriented developer who enjoys solving complex problems and building high-impact solutions. With 5+ years of professional experience, I’ve worked across fintech, e-commerce, and insurance domains, creating scalable APIs, responsive UIs, and cloud-native applications. I'm constantly learning—recently earning certifications in AWS Cloud Technologies, Microsoft Azure Fundamentals, and IBM Full Stack Development. Beyond code, I’m passionate about tech community events, regularly participate in hackathons, and love collaborating on innovative ideas. Whether it’s tuning JVM performance or mentoring peers in Agile teams, I strive to write clean, efficient code that makes a difference.",
     image: 2
 }
